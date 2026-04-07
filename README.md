@@ -46,6 +46,26 @@ Dự án xây dựng mô hình học máy không giám sát (Unsupervised Learni
 ```
 
 ## 💻 Hướng dẫn sử dụng  
+### 1. Clone Repository  
+```python
+git clone https://github.com/trdphatphattran/Pyspark-lda-news-classification.git
+cd Pyspark-lda-news-classification
+```
+### 2. Cài thư viện  
+```python
+pip install -r requirements.txt
+```
+### 3. Chạy Streamlit  
+```python
+streamlit run app.py
+```
+## 📬 Thông tin liên hệ
 
+Nếu bạn có bất kỳ câu hỏi nào về dự án hoặc muốn hợp tác, vui lòng liên hệ với mình qua:
 
+* **Họ và tên:** Trần Đại Phát
+* **LinkedIn:** [Phat Tran](https://www.linkedin.com/in/phat-tran-9ba42a341/)
+* **GitHub:** [trdphatphattran](https://github.com/trdphatphattran)
+* **Email:** phattrandai15062005@gmail.com
+* **Phone:** 0908647977 
 
