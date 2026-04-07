@@ -42,6 +42,7 @@ Dự án xây dựng mô hình học máy không giám sát (Unsupervised Learni
 ```text
 ├── app.py                            # Code giao diện Streamlit
 ├── LDA_Model_7M_Final.pkl            # Trọng số mô hình tốt nhất sau khi train
+├── requirements.txt
 └── README.md
 ```
 
